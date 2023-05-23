@@ -141,7 +141,7 @@ header {
     color: var(--text-color);
 }
 .welcome-container p {
-    color: #858585;
+    color: #555555;
     font-size: 18px;
     font-weight: 400;
     text-align: center;
